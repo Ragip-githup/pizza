@@ -4,4 +4,4 @@
 
 <p> needs some work.. </p>
 
-![](pizza.gif)
+![](/assets/img/pizza.gif)
